@@ -35,7 +35,8 @@ I'm Matt Shaw, a techolic with a previous background in Biotechonology.
 
 #### 1. Pinterest Data Pipeline
 
-> [!Note] description here
+> [!Note]
+> An Extract, Transforn, Load pipeline project, supported by AWS Cloud Services.
 
 - [Project Repo](https://github.com/ArachnaDude/pinterest-data-pipeline7)
 
