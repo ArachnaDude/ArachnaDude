@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Matt Shaw, a techolic with a previous background in Biotechonology.
+
+🏆 I recently graduated from AiCore as a data engingeer.
+
+🌱 I'm working towards my DataBricks Certification.
+
+💬 Ask me about why I got into programming.
+
+🤝 I volunteer with my local youth justice service, where I advocate, support and mentor young people facing adverse challenges.
+
+🥾 I enjoy searching for trig pillars across the UK.
+
+⚡ Fun fact: The Ordnance Survey don't know how many pillars are left.
