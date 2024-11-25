@@ -28,3 +28,17 @@ I'm Matt Shaw, a techolic with a previous background in Biotechonology.
 🥾 I enjoy searching for trig pillars across the UK.
 
 ⚡ Fun fact: The Ordnance Survey don't know how many pillars are left.
+
+# Main Repos
+
+#### 🐍 Python Projects
+
+#### Pinterest Data Pipeline
+
+> [!Note] description here
+
+- [Project Repo](https://github.com/ArachnaDude/pinterest-data-pipeline7)
+
+###### why even bother
+
+[link.com](www.link.com)
