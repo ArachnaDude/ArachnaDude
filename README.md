@@ -59,13 +59,13 @@ I'm Matt Shaw, a techolic with a previous background in Biotechonology.
 #### 1. Inclusive Manchester
 
 > [!Note]
-> A Full-stack project to promote inclusivity for all disabled people by creating a community app that gave people a space to rate and comment on venues unique to all types of disability.
+> A full-stack project to promote inclusivity for all disabled people by creating a community app that gave people a space to rate and comment on venues unique to all types of disability.
 
 - [Backend API](https://github.com/ArachnaDude/inclusive-manc-be) | [Frontend App](https://github.com/ArachnaDude/inclusive-manc-fe)
 
 #### 2. NC-News
 
 > [!Note]
-> Full-stack news app where users can browse articles and topics, upvote or downvote content and comments, and add or delete comments.
+> A full-stack news app where users can browse articles and topics, upvote or downvote content and comments, and add or delete comments.
 
 - [Backend API](https://github.com/ArachnaDude/nc-news-backend) | [Frontend App](https://github.com/ArachnaDude/nc-news-frontend)
